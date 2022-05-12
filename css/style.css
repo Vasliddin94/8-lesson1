@@ -250,6 +250,9 @@ p{
 
           .box1{
             grid-column: 1/3;
+          }
+
+          .container>div{
             width: 80%;
           }
 
@@ -307,6 +310,9 @@ p{
 
             .box1{
               grid-column: 1/3;
+            }
+
+            .container>div{
               width: 80%;
             }
 
