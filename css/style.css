@@ -298,10 +298,10 @@ p{
 
           @media only screen and (max-width:450px) {
             .container{
-              width: 350px;
+              width: 300px;
               display: grid;
               grid-template-columns: 1fr;
-              padding-top: 100px;
+              padding-top: 40px;
               grid-column-gap: 20px;
               grid-row-gap: 20px;
               text-align: center;
@@ -358,10 +358,10 @@ p{
 
             @media only screen and (max-width:350px) {
               .container{
-                width: 300px;
+                width: 250px;
                 display: grid;
                 grid-template-columns: 1fr;
-                padding-top: 100px;
+                padding-top: 40px;
                 grid-column-gap: 20px;
                 grid-row-gap: 20px;
                 text-align: center;
