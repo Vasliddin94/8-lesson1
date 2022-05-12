@@ -236,7 +236,7 @@ p{
 
         @media only screen and (max-width:600px) {
           .container{
-            width: 400px;
+            width: 300px;
             display: grid;
             grid-template-columns: 1fr;
             padding-top: 50px;
