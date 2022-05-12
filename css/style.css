@@ -1,4 +1,6 @@
-
+*{
+  text-align: center;
+}
 #menu{
   font-size: 35px;
   text-align: center;
